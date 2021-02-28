@@ -7,7 +7,7 @@
 
 <img src="NormalUseGif.gif" width="600">
 
-Starting from the top, the LCD display is very limited in the amount of information is can display to the user. When using certain functions that require multiple button presses the user has to wait for the display to scroll through several menu options. The display also does not tell the user what the options are for some functions, like the reheat function for example. 
+Starting from the top, the 14-segment LED display is very limited in the amount of information is can display to the user. When using certain functions that require multiple button presses the user has to wait for the display to scroll through several menu options. The display also does not tell the user what the options are for some functions, like the reheat function for example. 
 
 <img src="ReheatMenuGif.gif" width="600">
 
@@ -17,7 +17,7 @@ The options are displayed on a sticker that is visable when the door is open, bu
 
 The microwave will also start without asking the user for any confirmation of their choice. There is no way to go back to the selection menu, say by pressing the "Stop" button, if the user accidentally chooses the wrong option. 
 
-This interface has a total of 31 buttons, only about half of them are used frequently. Notice the 6 darker buttons just under the LCD display. No one in the house has ever used these buttons - except the "popcorn" button, which undercooks the popcorn and does not allow the user to add anymore cook time. 
+This interface has a total of 31 buttons, only about half of them are used frequently. Notice the 6 darker buttons just under the display marked "Sensor Controls". The microwave will detect the steam emitted by the food and will automatically adjust the cooking time. No one in the house has ever used these buttons - except the "popcorn" button, which undercooks the popcorn and does not allow the user to add anymore cook time. 
 
 <img src="PopcornGif.gif" width="600">
 
@@ -57,5 +57,14 @@ I would believe that the most common sequence of actions a user does while using
 4. Enter desired amount of cook time
 5. Hit Start
 6. Wait for timer to go off or hit "Add 30 Seconds" to add more cook time
+
+The interface does an okay job at helping the user figure out to make the microwave work, provided that the user has at least some prior knowledge of microwaves as there are no step-by-step instructions on the machine. The only feedback that the user has is the 14-segment display, that can show a total of 7 characters at once, other small LEDs that light up cut-outs, and a audible beep every time a button is pressed and when cook/kitchen timer time is done. The beep can be turned off if the user chooses by going through the "Control Setup" menu.
+
+# Common Mistakes
+
+The most common mistake a user can make is to use the "Sensor Controls" to cook their food as it consitently undercooks their food. As mentioned before, a sensor inside the microwave will detect the amount of steam being emitted by the cooking food and will stop the cooking time when a certain humidity threshold is reached. These controls most likely work, but only for a small percentage of food as it is difficult to account for the wide variety of popcorn, pizza, and vegetables. 
+
+I also remember pressing the "Clock" button instead of the "Kitchen Timer" button a few times by mistake when first using the microwave. Keep in mind, I was in my early teens and generally inexperienced when it comes to using a microwave, but I still believe it is a valid point as this could be someone's first microwave and accidentally changing the microwaves clock instead of starting a countdown timer could be dangerous. If they needed a timer for say, cooking a pizza in the oven, there is potential for the user to forget about the pizza and could start a fire.
+
 
 
