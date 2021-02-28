@@ -1,7 +1,5 @@
 # Improved Microwave - CS 4331 - Project 1
 
-# Old Microwave
-
 ## Old Interface
 <img src="Interface_Cropped.jpg" width="300">
 
@@ -67,6 +65,19 @@ The interface does an okay job at helping the user figure out to make the microw
 The most common mistake a user can make is to use the "Sensor Controls" to cook their food as it consitently undercooks their food. As mentioned before, a sensor inside the microwave will detect the amount of steam being emitted by the cooking food and will stop the cooking time when a certain humidity threshold is reached. These controls most likely work, but only for a small percentage of food as it is difficult to account for the wide variety of popcorn, pizza, and vegetables. 
 
 I also remember pressing the "Clock" button instead of the "Kitchen Timer" button a few times by mistake when first using the microwave. Keep in mind, I was in my early teens and generally inexperienced when it comes to using a microwave, but I still believe it is a valid point as this could be someone's first microwave and accidentally changing the microwaves clock instead of starting a countdown timer could be dangerous. If they needed a timer for say, cooking a pizza in the oven, there is potential for the user to forget about the pizza and could start a fire.
+
+This might be too specific, but my grandfather did live with use for a time and he had difficulty using the microwave as he was legally blind. The interface is sompletly smooth and the beeping only confirmed he pressed a button, not which button he's pressing. We added some glue dots to a couple buttons, like the "Start", "Stop", and the "3" button to help him get his bearings on the machine, but he often needed help from someone with vision to operate the microwave.
+
+# Suggestions
+
+My suggestions would be:
+1. Remove the Sensor Contorls and Light Controls
+2. Arrange the numbers in more convential pattern that resembles a phone interface
+3. Simplify the vent controls
+4. Add some texture to the interface for the visually imparied
+5. Add Read-out function that tells the user what they're pressing, replacing the beep
+6. Higher quality display
+7. Add the "Clock" button to the "Control Setup" menu
 
 
 
