@@ -83,5 +83,5 @@ My suggestions would be:
 
 <img src="NewInterface.jpg" width="600">
 
-For my new interface, I got rid of the Sensor Control buttons and used the space for an extra-large LCD display. A speaker is also added to speak out commands if text-to-speak is enabled, otherwise the classic beep will play. The 0-9, start, and stop buttons are arranged in a more conventional way and braille is embossed to help the visually emparied. 
+For my new interface, I got rid of the Sensor Control buttons and used the space for an extra-large LCD display. A speaker is also added to speak out commands if text-to-speak is enabled, otherwise the classic beep will play. The 0-9, start, and stop buttons are arranged in a more conventional way and braille is embossed to help the visually emparied. In a final design, the braille would be underneath the numbers instead of next to them like they are in the diagraim, it is just difficult to clearly see the braille and numbers on a sketch. The vent controls have been massively simplified, with only one speed and a toggle button. The "Clock" button has been removed and moved to the "Settings" menu, which has replaced the vaugly named "Control Setup" button. The "Add 30 Sec." button has been placed directly underneath the numbers as it is most likely the most pressed button after the numbers.
 
