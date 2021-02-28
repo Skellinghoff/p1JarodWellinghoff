@@ -29,6 +29,8 @@ The "Light Timer" and "Light Hi/Lo/Off" have never worked and no one is sure if 
 
 The vent is neccessary as this microwave is above a stove/oven, but the 5 speeds seems like overkill. 
 
-
+# Common and Rare Uses
+## Common
+1. 
 
 
