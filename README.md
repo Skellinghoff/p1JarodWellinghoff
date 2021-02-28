@@ -4,9 +4,10 @@
 
 ## Old Interface
 <img src="Interface_Cropped.jpg" width="300">
-
+# In Operation
 <img src="NormalUseGif.gif" width="600">
 
+# Some Issues
 Starting from the top, the 14-segment LED display is very limited in the amount of information is can display to the user. When using certain functions that require multiple button presses the user has to wait for the display to scroll through several menu options. The display also does not tell the user what the options are for some functions, like the reheat function for example. 
 
 <img src="ReheatMenuGif.gif" width="600">
