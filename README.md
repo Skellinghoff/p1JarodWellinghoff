@@ -24,4 +24,5 @@ This interface has a total of 31 buttons, only about half of them are used frequ
 <img src="PopcornGif.gif" width="600">
 
 The custom button has no explaination unless the owner's manual is present, which isn't very likely as this microwave came with the house and no one knows where it is. 
+
 The button layout is servicable, but is unconvintional at best. If some of the more unneccessary buttons were removed, a more widely used pattern of having 3 columns could be used.
