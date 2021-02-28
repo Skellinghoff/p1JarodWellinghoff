@@ -1,6 +1,4 @@
 # Improved Microwave - CS 4331 - Project 1
-## Project Link
-place project link here
 
 # Old Microwave
 
@@ -26,3 +24,11 @@ This interface has a total of 31 buttons, only about half of them are used frequ
 The custom button has no explaination unless the owner's manual is present, which isn't very likely as this microwave came with the house and no one knows where it is. 
 
 The button layout is servicable, but is unconvintional at best. If some of the more unneccessary buttons were removed, a more widely used pattern of having 3 columns could be used.
+
+The "Light Timer" and "Light Hi/Lo/Off" have never worked and no one is sure if they are referring to the ligh on the inside of the microwave or a light underneath the machine. "Light Timer" also brings up a very confusing menu that is difficult to navigate.
+
+The vent is neccessary as this microwave is above a stove/oven, but the 5 speeds seems like overkill. 
+
+
+
+
