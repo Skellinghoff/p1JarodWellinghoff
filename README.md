@@ -31,6 +31,21 @@ The vent is neccessary as this microwave is above a stove/oven, but the 5 speeds
 
 # Common and Rare Uses
 ## Common
-1. 
+1. Defrosting chicken
+2. Heating up food for a specific time
+3. Adding 30 seconds to cook time
+4. Using the vent while cooking on the stove
+5. Kitchen timer
+
+## Rare
+1. Pizza Slice button
+2. Baked Potato button
+3. Vegetable button
+4. Custom Program
+5. Cook button
+6. Reheat button
+7. Light
+8. Changing the speed of the vent
+
 
 
