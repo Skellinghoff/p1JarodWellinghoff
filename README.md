@@ -79,5 +79,9 @@ My suggestions would be:
 6. Higher quality display
 7. Add the "Clock" button to the "Control Setup" menu
 
+# New Interface
 
+<img src="NewInterface.jpg" width="600">
+
+For my new interface, I got rid of the Sensor Control buttons and used the space for an extra-large LCD display. A speaker is also added to speak out commands if text-to-speak is enabled, otherwise the classic beep will play. The 0-9, start, and stop buttons are arranged in a more conventional way and braille is embossed to help the visually emparied. 
 
