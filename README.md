@@ -7,7 +7,7 @@ place project link here
 ![Full Microwave Img](https://i.imgur.com/szlRuyn.jpg)
 
 ## Old Interface
-![Microwave Interface](https://i.imgur.com/Ujnn5w9.jpg)
+![Microwave Interface](https://i.imgur.com/Ujnn5w9.jpg?1)
 
 ## Menu
 ![Menu](https://i.imgur.com/1kqIfIc.jpg)
