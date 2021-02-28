@@ -56,7 +56,6 @@ I would believe that the most common sequence of actions a user does while using
 3. Close door
 4. Enter desired amount of cook time
 5. Hit Start
-6. a.Wait for timer to go off
-6. b. Hit "Add 30 Seconds" to add more cook time
+6. Wait for timer to go off or hit "Add 30 Seconds" to add more cook time
 
 
