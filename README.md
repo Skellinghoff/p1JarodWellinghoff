@@ -17,6 +17,8 @@ The options are displayed on a sticker that is visable when the door is open, bu
 
 <img src="Menu_Cropped.jpg">
 
+The microwave will also start without asking the user for any confirmation of their choice. There is no way to go back to the selection menu, say by pressing the "Stop" button, if the user accidentally chooses the wrong option. 
+
 This interface has a total of 31 buttons, only about half of them are used frequently. Notice the 6 darker buttons just under the LCD display. No one in the house has ever used these buttons - except the "popcorn" button, which undercooks the popcorn and does not allow the user to add anymore cook time. 
 
 <img src="PopcornGif.gif" width="600">
