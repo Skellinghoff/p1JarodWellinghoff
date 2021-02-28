@@ -47,5 +47,16 @@ The vent is neccessary as this microwave is above a stove/oven, but the 5 speeds
 7. Light
 8. Changing the speed of the vent
 
+This interface makes the common uses fairly easy except the defrosting. The menu that appears when I select deforst is very cumbersome and required a lot of trial and error to get right. The extra buttons can be confusing to a new user.
+
+# User Interactions
+I would believe that the most common sequence of actions a user does while using a microwave is:
+1. Open the door
+2. Place food in
+3. Close door
+4. Enter desired amount of cook time
+5. Hit Start
+6a. Wait for timer to go off
+6b. Hit "Add 30 Seconds" to add more cook time
 
 
