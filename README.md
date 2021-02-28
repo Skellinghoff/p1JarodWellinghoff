@@ -11,7 +11,7 @@ place project link here
 
 This interface has a total of 31 buttons, only about half of them are used frequently.Notice the 6 darker buttons just under the LCD display. No one in the house has ever used these buttons - except the "popcorn" button, which undercooks the popcorn and does not allow the user to add anymore cook time. 
 
-![Imgur](https://i.imgur.com/s1EiM9m.mp4)
+![Imgur](https://i.imgur.com/s1EiM9mb.gif)
 
 ## Menu
 ![Menu](https://i.imgur.com/1kqIfIc.jpg)
